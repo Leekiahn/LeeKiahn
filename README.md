@@ -129,6 +129,7 @@
 
 * 숭실대학교 글로벌미래교육원 멀티미디어학과 (전문학사) · 2022.12
 * 아현산업정보학교 방송영상과 졸업 · 2018
+* 남강고등학교 졸업 · 2018
 
 ## Certificates :trophy:
 
@@ -136,8 +137,3 @@
 * 네트워크관리사 2급 · 2020.01
 * 정보기술자격(ITQ) · 2018.08
 * 그래픽기술자격(GTQ) 1급 · 2018.06
-
-## Contact :email:
-
-* Email · kiahn2000@gmail.com
-* GitHub · [Leekiahn](https://github.com/Leekiahn)
