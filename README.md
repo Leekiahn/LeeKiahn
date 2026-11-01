@@ -16,6 +16,8 @@
 - [Certificates](#certificates-trophy)
 - [Contact](#contact-email)
 
+<br>
+
 ## About me :wave:
 
 안녕하세요, Unity 게임 클라이언트 개발자 **이기안**입니다.
@@ -29,10 +31,14 @@
 
 이 포트폴리오에는 부트캠프부터 팀 프로젝트, 그리고 그 경험을 바탕으로 만든 라이브러리까지 제가 성장해 온 과정을 담았습니다.
 
+<br>
+
 ## CV :page_facing_up:
 
 - [이력서 PDF](https://docs.google.com/document/d/1uxPCsXqL5hqwR8u9WCTCkWsBmGaHTJDUQ0Y8ST4fz3E/edit?usp=sharing)
 - [자기소개서 PDF](https://docs.google.com/document/d/1xyPpdqSHFGsqzriSjePfg78zeT5tjW-mO_A5Y12_vIY/edit?usp=sharing)
+
+<br>
 
 ## My projects :video_game:
 
@@ -61,6 +67,8 @@
 **트러블슈팅**
 * 매니저끼리 참조할 때 Awake 순서에 따라 아직 등록되지 않은 서비스를 조회해 예외가 발생 → 등록(`IServiceRegister`)과 초기화(`IServiceInit`)를 인터페이스로 분리하고, 다른 서비스 조회는 모든 등록이 끝난 뒤 `InitAsync()`에서만 하도록 해결
 
+<br>
+
 ## Experiences :office:
  
 **다락연구소 게임개발팀 팀장** · 2025.10 – 2026.06
@@ -73,7 +81,9 @@
   * [Itch.io에서 플레이](https://phikozz.itch.io/nightpalace) · [플레이 영상](https://www.youtube.com/watch?v=2b0pwozoTho) · [GitHub 저장소](https://github.com/Leekiahn/NightPalace)
 * **Project Starfall** · 탑다운 우주 생존 게임 개발
   * [플레이 영상](https://www.youtube.com/watch?v=zdOKez8kJ-A)
- 
+
+<br>
+
 ## Skills :computer:
 
 **설계**
@@ -98,6 +108,8 @@
 **협업**
 * 팀장으로 역할 분담, 일정 관리, 개발 파이프라인 구성
 * 코드 리뷰 피드백을 기록해 코드 작성 기준으로 정리
+
+<br>
 
 ## Tools :wrench:
 
