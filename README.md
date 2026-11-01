@@ -142,6 +142,8 @@
 * 정보기술자격(ITQ) · 2018.08
 * 그래픽기술자격(GTQ) 1급 · 2018.06
 
+<br>
+
 ## Contact :email:
  
 * Email · kiahn2000@gmail.com
