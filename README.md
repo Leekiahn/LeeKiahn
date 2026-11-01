@@ -80,7 +80,7 @@
 * **궁야 : 폐궁의 밤** · 1인칭 공포 어드벤처 게임 개발 및 Itch.io 배포
   * [Itch.io에서 플레이](https://phikozz.itch.io/nightpalace) · [플레이 영상](https://www.youtube.com/watch?v=2b0pwozoTho) · [GitHub 저장소](https://github.com/Leekiahn/NightPalace)
 * **Project Starfall** · 탑다운 우주 생존 게임 개발
-  * [플레이 영상](https://www.youtube.com/watch?v=zdOKez8kJ-A)
+  * [플레이 영상](https://www.youtube.com/watch?v=zdOKez8kJ-A) (사용된 에셋의 저작권 문제로 인해 해당 프로젝트의 깃허브는 기재하지 못하였습니다.)
 
 <br>
 
