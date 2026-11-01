@@ -61,31 +61,19 @@
 **트러블슈팅**
 * 매니저끼리 참조할 때 Awake 순서에 따라 아직 등록되지 않은 서비스를 조회해 예외가 발생 → 등록(`IServiceRegister`)과 초기화(`IServiceInit`)를 인터페이스로 분리하고, 다른 서비스 조회는 모든 등록이 끝난 뒤 `InitAsync()`에서만 하도록 해결
 
-### 2. 궁야 : 폐궁의 밤
-> 2025 · KDT 부트캠프 팀 프로젝트 · 1인칭 공포 어드벤처
-
-* [Itch.io에서 플레이](링크_입력)
-* [플레이 영상](링크_입력)
-* [GitHub 저장소](링크_입력)
-
-### 3. Project Starfall
-> 2025 · KDT 부트캠프 팀 프로젝트 · 탑다운 우주 생존 게임
-
-* [플레이 영상](링크_입력)
-* [GitHub 저장소](링크_입력)
-
 ## Experiences :office:
-
+ 
 **다락연구소 게임개발팀 팀장** · 2025.10 – 2026.06
 * 부트캠프 동료들과 팀을 꾸려 방치형 모바일 경영 게임 개발 (8개월)
 * 기획·개발·아트·QA 역할을 나누고 실무에 가까운 개발 파이프라인 구성
 * 기획이 확정되지 않은 채 개발을 시작해 기획이 바뀔 때마다 재작업이 생겼고, 끝내 출시하지 못함
 * 이 경험을 바탕으로 기획이 바뀌어도 재작업을 줄일 수 있도록 역할 분리와 낮은 결합도를 먼저 고민하게 되었고, PhikozzLib 개발로 이어짐
-
 **KDT 실무형 Unity 게임개발자 양성과정 10기** · 스파르타 코딩클럽 · 2025.04 – 2025.08
-* 궁야 : 폐궁의 밤 개발 및 Itch.io 배포
-* Project Starfall 개발
-
+* **궁야 : 폐궁의 밤** · 1인칭 공포 어드벤처 게임 개발 및 Itch.io 배포
+  * [Itch.io에서 플레이](https://phikozz.itch.io/nightpalace) · [플레이 영상](https://www.youtube.com/watch?v=2b0pwozoTho) · [GitHub 저장소](https://github.com/Leekiahn/NightPalace)
+* **Project Starfall** · 탑다운 우주 생존 게임 개발
+  * [플레이 영상](https://www.youtube.com/watch?v=zdOKez8kJ-A)
+ 
 ## Skills :computer:
 
 **설계**
