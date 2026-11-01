@@ -125,11 +125,15 @@
 * [Git](https://git-scm.com/) - 버전 관리
 * [GitHub](https://github.com/) - 협업, UPM git 패키지 배포
 
+<br>
+
 ## Education :mortar_board:
 
 * 숭실대학교 글로벌미래교육원 멀티미디어학과 (전문학사) · 2022.12
 * 아현산업정보학교 방송영상과 졸업 · 2018
 * 남강고등학교 졸업 · 2018
+
+<br>
 
 ## Certificates :trophy:
 
