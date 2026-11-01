@@ -3,7 +3,7 @@
 - [About me](#about-me-wave)
 - [CV](#cv-page_facing_up)
 - [My projects](#my-projects-video_game)
-  - [PhikozzLib · Unity 공통 시스템 라이브러리](#phikozzlib--unity-공통-시스템-라이브러리)
+  - PhikozzLib · Unity 공통 시스템 라이브러리
 - [Experiences](#experiences-office)
 - [Skills](#skills-computer)
 - [Tools](#tools-wrench)
