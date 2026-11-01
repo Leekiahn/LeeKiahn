@@ -85,33 +85,6 @@
 <br>
 
 ## Skills :computer:
-
-**설계**
-* 인터페이스 기반으로 구현체와 게임 코드를 분리
-* 단일 책임 원칙에 맞게 클래스의 역할을 나누고 결합도를 낮추는 구조 설계
-* Service Locator, Observer, Object Pool, State, Command 패턴 적용
-
-**비동기 처리**
-* UniTask로 초기화·로딩·지속시간 처리
-* `WhenAll`로 여러 비동기 작업을 동시에 실행하고, `UniTaskCompletionSource`로 준비 완료 신호 전달
-
-**리소스와 데이터**
-* Addressables로 원격 번들 다운로드와 label 단위 로드·해제
-* BG Database와 구글 스프레드시트로 ScriptableObject 없이 게임 데이터 관리
-* JsonUtility, Odin Binary 직렬화로 저장 데이터 관리
-
-**성능**
-* 오브젝트 풀링과 팝업 재사용으로 생성·파괴 비용과 GC 할당 줄이기
-* struct 이벤트, `EqualityComparer<T>.Default`로 박싱 피하기
-* 값이 바뀔 때만 알리는 ObservableValue로 Update 폴링 제거
-
-**협업**
-* 팀장으로 역할 분담, 일정 관리, 개발 파이프라인 구성
-* 코드 리뷰 피드백을 기록해 코드 작성 기준으로 정리
-
-<br>
-
-## Skills :computer:
  
 * [UniTask](https://github.com/Cysharp/UniTask) - async/await 기반 비동기 처리 (서비스 초기화, 리소스 프리로드, 지속시간 대기)
 * Addressables - label 단위 리소스 로드·해제와 원격 번들 다운로드
