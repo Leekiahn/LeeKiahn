@@ -95,6 +95,16 @@
 * Localization - 다국어 텍스트와 에셋 관리
 * MCP for Unity - Claude Code와 Unity 에디터 연동
 
+**개인 학습 저장소**
+> 자료구조, 알고리즘, 네트워크, 디자인 패턴을 개인적으로 학습하며 직접 구현하고 정리한 저장소입니다.
+ 
+* [Unity-Design-Patterns](https://github.com/Leekiahn/Unity-Design-Patterns) - Singleton, State, Strategy, Template Method, Observer, Factory Method, Facade, Dependency Injection, Decorator, Command, Adapter 11가지 패턴을 Unity 예제로 구현
+* [SortingAlgorithm](https://github.com/Leekiahn/SortingAlgorithm) - 버블·삽입·선택·퀵·병합·힙 정렬 6종을 오름차순·내림차순으로 구현하고, 무작위 정수 10,000개로 소요 시간 비교
+* [Graph-Data-Structure](https://github.com/Leekiahn/Graph-Data-Structure) - 인접 행렬, 인접 리스트, 가중치 그래프 구현 (방향·무방향 지원, 정점 범위 검증 유틸 분리)
+* [Pathfinding-Algorithm](https://github.com/Leekiahn/Pathfinding-Algorithm) - DFS(스택), BFS(큐), Dijkstra(우선순위 큐), A*(휴리스틱 함수 주입) 경로 탐색 구현
+* [TCP-IP-Programming](https://github.com/Leekiahn/TCP-IP-Programming) - TcpListener와 TcpClient로 서버-클라이언트 메시지 송수신 구현
+
+
 <br>
 
 ## Tools :wrench:
