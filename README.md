@@ -31,8 +31,8 @@
 
 ## CV :page_facing_up:
 
-- [이력서 PDF](링크_입력)
-- [자기소개서 PDF](링크_입력)
+- [이력서 PDF](https://docs.google.com/document/d/1uxPCsXqL5hqwR8u9WCTCkWsBmGaHTJDUQ0Y8ST4fz3E/edit?usp=sharing)
+- [자기소개서 PDF](https://docs.google.com/document/d/1xyPpdqSHFGsqzriSjePfg78zeT5tjW-mO_A5Y12_vIY/edit?usp=sharing)
 
 ## My projects :video_game:
 
