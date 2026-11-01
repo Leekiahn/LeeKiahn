@@ -43,7 +43,7 @@
 프로젝트마다 Audio, UI, Save 매니저를 다시 만들고, 매니저마다 접근 방식이 다르고, Awake 실행 순서 때문에 null 예외가 나던 문제를 해결하려고 만든 **Service Locator + Bootstrap 기반 공통 서비스 라이브러리**입니다.
 
 * [GitHub 저장소](https://github.com/Leekiahn/PhikozzLib)
-* [포트폴리오 PDF](링크_입력)
+* [포트폴리오 PDF](https://docs.google.com/presentation/d/12FSICnKrx-n7V37dvNeFoc9VyhWKlU0RiVw-PG9e_j8/edit?usp=sharing)
 
 **구성**
 * 서비스 12종 · Addressable, Audio, UI, Effect, Data, Event, Save, Scene, Time, Localization, FloatingText, Pooling
