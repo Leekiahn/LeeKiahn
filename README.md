@@ -94,6 +94,7 @@
 * Cinemachine - 상황에 맞는 카메라 전환과 추적 제어
 * [Feel](https://feel.moremountains.com/) - 사운드, 파티클, 카메라 흔들림, 애니메이션 등 게임 피드백 연출
 * Localization - 다국어 텍스트와 에셋 관리
+* MCP for Unity - Claude Code와 Unity 에디터 연동
 
 <br>
 
