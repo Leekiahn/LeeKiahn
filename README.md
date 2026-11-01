@@ -90,7 +90,7 @@
 * [UniTask](https://github.com/Cysharp/UniTask) - async/await 기반 비동기 처리 (서비스 초기화, 리소스 프리로드, 지속시간 대기)
 * Addressables - label 단위 리소스 로드·해제와 원격 번들 다운로드
 * BG Database - 구글 스프레드시트와 연동해 기획 데이터를 코드 수정 없이 반영
-* [Odin Inspector](https://odininspector.com/) - 인스펙터 확장으로 에디터 작업 효율화, Binary 직렬화
+* [Odin Inspector](https://odininspector.com/) - 인스펙터 확장으로 에디터 작업 효율화
 * Unity Animator - 2D·3D 애니메이션 상태 전환과 제어
 * Cinemachine - 상황에 맞는 카메라 전환과 추적 제어
 * [Feel](https://feel.moremountains.com/) - 사운드, 파티클, 카메라 흔들림, 애니메이션 등 게임 피드백 연출
