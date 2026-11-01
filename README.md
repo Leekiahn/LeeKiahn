@@ -111,19 +111,31 @@
 
 <br>
 
-## Tools :wrench:
+## Skills :computer:
+ 
+* [UniTask](https://github.com/Cysharp/UniTask) - async/await 기반 비동기 처리 (서비스 초기화, 리소스 프리로드, 지속시간 대기)
+* Addressables - label 단위 리소스 로드·해제와 원격 번들 다운로드
+* BG Database - 구글 스프레드시트와 연동해 기획 데이터를 코드 수정 없이 반영
+* [Odin Inspector](https://odininspector.com/) - 인스펙터 확장으로 에디터 작업 효율화, Binary 직렬화
+* Unity Animator - 2D·3D 애니메이션 상태 전환과 제어
+* Cinemachine - 상황에 맞는 카메라 전환과 추적 제어
+* [Feel](https://feel.moremountains.com/) - 사운드, 파티클, 카메라 흔들림, 애니메이션 등 게임 피드백 연출
+* Localization - 다국어 텍스트와 에셋 관리
 
-* [Unity 6](https://unity.com/) - 게임 엔진
-* C# - 개발 언어
-* [UniTask](https://github.com/Cysharp/UniTask) - 비동기 처리 (부트스트랩 초기화, 프리로드, Stat 지속시간)
-* Addressables - 리소스 원격 다운로드와 label 단위 로드
-* Localization - 다국어 지원
-* Cinemachine - 카메라 제어
-* [Feel](https://feel.moremountains.com/) - 피드백 연출
-* [Odin Inspector](https://odininspector.com/) - 인스펙터 확장, Binary 직렬화
-* BG Database - 구글 스프레드시트와 연동한 게임 데이터 관리
-* [Git](https://git-scm.com/) - 버전 관리
-* [GitHub](https://github.com/) - 협업, UPM git 패키지 배포
+<br>
+
+## Tools :wrench:
+ 
+* [Unity](https://unity.com/) - 게임 엔진
+* C# - 주 개발 언어
+* C++ - 서브 개발 언어 (기초 학습 중)
+* [Visual Studio Code](https://code.visualstudio.com/) · [Rider](https://www.jetbrains.com/rider/) · [Visual Studio 2022](https://visualstudio.microsoft.com/) - 코드 작성과 디버깅
+* [Notion](https://www.notion.so/) - 개발 일정 관리와 기획 문서 정리
+* [Figma](https://www.figma.com/) - 팀원과 함께 화면 구성과 기획 협업
+* [Slack](https://slack.com/) - 팀 커뮤니케이션
+* [Git](https://git-scm.com/) - 소스 코드 버전 관리
+* [GitHub](https://github.com/) - 원격 저장소 관리와 협업, UPM 패키지 배포
+* [Claude Code](https://claude.com/claude-code) - AI 코딩 도구로 개발 생산성 향상
 
 <br>
 
