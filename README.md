@@ -115,7 +115,7 @@
 * Visual Studio Code · Rider · Visual Studio 2022 - 코드 작성과 디버깅
 * Notion - 개발 일정 관리와 기획 문서 정리
 * Figma - 팀원과 함께 화면 구성과 기획 협업
-* Slack - 팀 커뮤니케이션
+* Slack · Discord · Zep - 팀 커뮤니케이션
 * Git - 소스 코드 버전 관리
 * GitHub - 원격 저장소 관리와 협업, UPM 패키지 배포
 * Claude Code - AI 코딩 도구로 개발 생산성 향상
