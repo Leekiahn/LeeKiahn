@@ -1,7 +1,5 @@
 # 이기안 · Unity Game Client Developer
 
-"모르는 것을 맞닥뜨리면 끝까지 파고드는 개발자"
-
 - [About me](#about-me-wave)
 - [CV](#cv-page_facing_up)
 - [My projects](#my-projects-video_game)
