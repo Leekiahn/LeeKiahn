@@ -5,6 +5,9 @@
 - [My projects](#my-projects-video_game)
   - PhikozzLib · Unity 공통 시스템 라이브러리
 - [Experiences](#experiences-office)
+  - 다락연구소 게임개발팀 팀장
+  - KDT 실무형 Unity 게임개발자 양성과정 10기
+  - Design Nas Graphic Design Academy
 - [Skills](#skills-computer)
 - [Tools](#tools-wrench)
 - [Education](#education-mortar_board)
