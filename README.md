@@ -39,7 +39,7 @@
 
 ## My projects :video_game:
 
-### 개인프로젝트/PhikozzLib · Unity 공통 시스템 라이브러리
+### 개인프로젝트 / PhikozzLib · Unity 공통 시스템 라이브러리
 > 2026.05 – 2026.10 · 1인 개발 · UPM git 패키지 v3.0.0 · Unity 6 / C#
 
 프로젝트마다 Audio, UI, Save 매니저를 다시 만들고, 매니저마다 접근 방식이 다르고, Awake 실행 순서 때문에 null 예외가 나던 문제를 해결하려고 만든 **Service Locator + Bootstrap 기반 공통 서비스 라이브러리**입니다.
@@ -75,9 +75,9 @@
 <br>
 
 **KDT 실무형 Unity 게임개발자 양성과정 10기** · 스파르타 코딩클럽 · 2025.04 – 2025.08
-* 팀 프로젝트/**궁야 : 폐궁의 밤** · 1인칭 공포 어드벤처 게임 개발 및 Itch.io 배포
+* 팀 프로젝트 / **궁야 : 폐궁의 밤** · 1인칭 공포 어드벤처 게임 개발 및 Itch.io 배포
   * [Itch.io에서 플레이](https://phikozz.itch.io/nightpalace) · [플레이 영상](https://www.youtube.com/watch?v=2b0pwozoTho) · [GitHub 저장소](https://github.com/Leekiahn/NightPalace)
-* 팀 프로젝트/**Project Starfall** · 탑다운 우주 생존 게임 개발
+* 팀 프로젝트 / **Project Starfall** · 탑다운 우주 생존 게임 개발
   * [플레이 영상](https://www.youtube.com/watch?v=zdOKez8kJ-A) (사용된 에셋의 저작권 문제로 인해 해당 프로젝트의 깃허브는 기재하지 못하였습니다.)
 
 <br>
