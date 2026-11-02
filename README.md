@@ -80,8 +80,9 @@
 <br>
 
 **Design Nas Graphic Design Academy** · 2023
-* Adobe Photoshop, Illustrator 그래픽 작업 학습
-* 포스터, 리플렛, 북디자인 등의 브랜딩 전략
+* Adobe Photoshop, Illustrator을 활용한 그래픽 작업 학습
+* 포스터, 리플렛, 북디자인 포트폴리오 제작
+* 브랜딩 및 광고 전략
 * [포트폴리오 PDF](https://drive.google.com/file/d/16KBiixYD3ORPl4DXJfKfcRkzU7lKIUlC/view?usp=sharing)
 
 <br>
