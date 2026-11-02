@@ -146,4 +146,3 @@
 ## Contact :email:
  
 * Email · kiahn2000@gmail.com
-* GitHub · [Leekiahn](https://github.com/Leekiahn)
