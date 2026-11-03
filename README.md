@@ -71,13 +71,20 @@
 **다락연구소 게임개발팀 팀장** · 2025.10 – 2026.06
 * 팀 프로젝트 / **꿈결 장난감 공방** · 방치형 모바일 경영 게임 개발 (8개월)
 * 기획·개발·아트·QA 역할을 나누고 실무에 가까운 개발 파이프라인 구성
+* 기획자와 협업하여 시스템 기획 지원
+* 전반적인 팝업 UI 및 상호작용, 애니메이션 구현
+* BG Database · Google Sheets를 통한 전반적인 Data 관리
+* Customer Pooling 및 State Machine, Override Animator Controller 구현
+* ToyStand & Customer Sorting Group 관리
 
 <br>
 
 **KDT 실무형 Unity 게임개발자 양성과정 10기** · 스파르타 코딩클럽 · 2025.04 – 2025.08
 * 팀 프로젝트 / **궁야 : 폐궁의 밤** · 1인칭 공포 어드벤처 게임 개발 및 Itch.io 배포
+  * 플레이어 이동 및 FSM, UI, 사운드 재생 구현
   * [Itch.io에서 플레이](https://phikozz.itch.io/nightpalace) · [플레이 영상](https://www.youtube.com/watch?v=2b0pwozoTho) · [GitHub 저장소](https://github.com/Leekiahn/NightPalace)
 * 팀 프로젝트 / **Project Starfall** · 탑다운 우주 생존 게임 개발
+  * 주야 변화 및 엔딩 분기 구현
   * [플레이 영상](https://www.youtube.com/watch?v=zdOKez8kJ-A) (사용된 에셋의 저작권 문제로 인해 해당 프로젝트의 깃허브는 기재하지 못하였습니다.)
 
 <br>
