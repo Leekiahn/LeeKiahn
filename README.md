@@ -72,16 +72,18 @@
 * 팀 프로젝트 / **꿈결 장난감 공방** · 방치형 모바일 경영 게임 개발 (8개월)
 * 기획·개발·아트·QA 역할을 나누고 실무에 가까운 개발 파이프라인 구성
 * 기획자와 협업하여 시스템 기획 지원
-* 전반적인 팝업 UI 및 상호작용, 애니메이션 구현
+* 전반적인 팝업 UGUI 및 상호작용, 애니메이션 구현
 * BG Database · Google Sheets를 통한 전반적인 Data 관리
 * Customer Pooling 및 State Machine, Override Animator Controller 구현
 * ToyStand & Customer Sorting Group 관리
 
 <br>
 
-**KDT 실무형 Unity 게임개발자 양성과정 10기** · 스파르타 코딩클럽 · 2025.04 – 2025.08
 * 팀 프로젝트 / **궁야 : 폐궁의 밤** · 1인칭 공포 어드벤처 게임 개발 및 Itch.io 배포
-  * 플레이어 이동 및 FSM, UI, 사운드 재생 구현
+  * **플레이어 FSM** · 제네릭 `StateMachine<T>`로 Idle·Walk·Sprint·Crouch·Jump·Dead 상태 분리
+  * **이동** · 이동 속도 등 수치를 ScriptableObject로 분리, Raycast로 머리 위 장애물 인식
+  * **UI** · 메뉴·설정·인벤토리 등 전반적인 UGUI 패널 전환
+  * **사운드** · Raycast로 바닥 머티리얼을 감지해 재질별 Footstep 사운드 재생
   * [Itch.io에서 플레이](https://phikozz.itch.io/nightpalace) · [플레이 영상](https://www.youtube.com/watch?v=2b0pwozoTho) · [GitHub 저장소](https://github.com/Leekiahn/NightPalace)
 * 팀 프로젝트 / **Project Starfall** · 탑다운 우주 생존 게임 개발
   * 주야 변화 및 엔딩 분기 구현
@@ -109,7 +111,7 @@
 * Animator - 2D·3D 애니메이션 상태 전환, Override Animator Controller로 애니메이션 교체
 * Cinemachine - 상황에 맞는 카메라 전환과 추적 제어
 * [Feel](https://feel.moremountains.com/) - 사운드, 파티클, 카메라 흔들림, 애니메이션 등 게임 피드백 연출
-* FMOD for Unity - 게임 상황에 따라 변하는 적응형 오디오 구현
+* FMOD for Unity - 적응형 오디오 구현
 * Localization - 다국어 텍스트와 에셋 관리
 * MCP for Unity - Claude Code와 Unity 에디터 연동
 
