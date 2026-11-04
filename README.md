@@ -31,20 +31,20 @@
 
 ## CV :page_facing_up:
 
-- [이력서 PDF](https://docs.google.com/document/d/1uxPCsXqL5hqwR8u9WCTCkWsBmGaHTJDUQ0Y8ST4fz3E/edit?usp=sharing)
-- [자기소개서 PDF](https://docs.google.com/document/d/1xyPpdqSHFGsqzriSjePfg78zeT5tjW-mO_A5Y12_vIY/edit?usp=sharing)
+- [이력서](https://docs.google.com/document/d/1uxPCsXqL5hqwR8u9WCTCkWsBmGaHTJDUQ0Y8ST4fz3E/edit?usp=sharing)
+- [자기소개서](https://docs.google.com/document/d/1xyPpdqSHFGsqzriSjePfg78zeT5tjW-mO_A5Y12_vIY/edit?usp=sharing)
 
 <br>
 
 ## My projects :video_game:
 
-### 개인프로젝트 / PhikozzLib · Unity 공통 시스템 라이브러리
+### 개인 프로젝트 / PhikozzLib · Unity 공통 시스템 라이브러리
 > 2026.05 – 2026.10 · 1인 개발 · UPM git 패키지 v3.0.0 · Unity 6 / C#
 
 프로젝트마다 Audio, UI, Save 매니저를 다시 만들고, 매니저마다 접근 방식이 다르고, Awake 실행 순서 때문에 null 예외가 나던 문제를 해결하려고 만든 **Service Locator + Bootstrap 기반 공통 서비스 라이브러리**입니다.
 
 * [GitHub 저장소](https://github.com/Leekiahn/PhikozzLib)
-* [포트폴리오 PDF](https://docs.google.com/presentation/d/12FSICnKrx-n7V37dvNeFoc9VyhWKlU0RiVw-PG9e_j8/edit?usp=sharing)
+* [포트폴리오](https://docs.google.com/presentation/d/12FSICnKrx-n7V37dvNeFoc9VyhWKlU0RiVw-PG9e_j8/edit?usp=sharing)
 
 **구성**
 * 서비스 12종 · Addressable, Audio, UI, Effect, Data, Event, Save, Scene, Time, Localization, FloatingText, Pooling
@@ -69,12 +69,12 @@
  
 **다락연구소 게임개발팀 팀장** · 2025.10 – 2026.06
 * 팀 프로젝트 / **꿈결 장난감 공방** · 방치형 모바일 경영 게임 개발 (8개월)
-* 기획·개발·아트·QA 역할 분담 및 개발 파이프라인 구성
-* 기획자와 협업하여 시스템 기획 지원
-* 전반적인 팝업 UGUI 및 상호작용, 애니메이션 구현
-* BG Database · Google Sheets를 통한 전반적인 Data 관리
-* Customer Pooling 및 State Machine, Override Animator Controller 구현
-* ToyStand & Customer Sorting Group 관리
+  * 기획·개발·아트·QA 역할 분담 및 개발 파이프라인 구성
+  * 기획자와 협업하여 시스템 기획 지원
+  * 전반적인 팝업 UGUI 및 상호작용, 애니메이션 구현
+  * BG Database · Google Sheets를 통한 전반적인 Data 관리
+  * Customer Pooling 및 State Machine, Override Animator Controller 구현
+  * ToyStand & Customer Sorting Group 관리
 
 <br>
 
@@ -128,7 +128,7 @@
 * Visual Studio Code · Rider · Visual Studio 2022 - 코드 작성과 디버깅
 * Notion - 개발 일정 관리와 기획 문서 정리
 * Figma - 팀원과 함께 화면 구성과 기획 협업
-* Slack · Discord · Zep - 팀 커뮤니케이션
+* Slack · Discord · ZEP - 팀 커뮤니케이션
 * Git - 소스 코드 버전 관리
 * GitHub - 원격 저장소 관리와 협업, UPM 패키지 배포
 * Claude Code - AI 코딩 도구로 개발 생산성 향상
@@ -155,3 +155,4 @@
 ## Contact :email:
  
 * Email · kiahn2000@gmail.com
+* Blog · [https://phikozz.tistory.com/](https://phikozz.tistory.com/)
