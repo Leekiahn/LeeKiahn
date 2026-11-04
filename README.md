@@ -79,6 +79,7 @@
 
 <br>
 
+**KDT 실무형 Unity 게임개발자 양성과정 10기** · 2025.04 – 2025.08
 * 팀 프로젝트 / **궁야 : 폐궁의 밤** · 1인칭 공포 어드벤처 게임 개발 및 Itch.io 배포
   * **플레이어 FSM** · 제네릭 `StateMachine<T>`로 Idle·Walk·Sprint·Crouch·Jump·Dead 상태 분리
   * **이동** · 이동 속도 등 수치를 ScriptableObject로 분리, Raycast로 머리 위 장애물 인식
