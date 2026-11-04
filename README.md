@@ -133,7 +133,7 @@
  
 * Unity - 게임 엔진
 * C# - 주 개발 언어
-* C++ - 서브 개발 언어 (기초 학습 중)
+* C++ - 서브 개발 언어
 * Visual Studio Code · Rider · Visual Studio 2022 - 코드 작성과 디버깅
 * Notion - 개발 일정 관리와 기획 문서 정리
 * Figma - 팀원과 함께 화면 구성과 기획 협업
