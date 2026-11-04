@@ -98,14 +98,18 @@
 <br>
 
 ## Skills :computer:
- 
+
 * [UniTask](https://github.com/Cysharp/UniTask) - async/await 기반 비동기 처리
 * Addressables - label 단위 리소스 로드·해제와 원격 번들 다운로드
 * BG Database - 구글 스프레드시트와 연동해 기획 데이터를 코드 수정 없이 반영
+* ScriptableObject - 아이템 등 게임 데이터 에셋 관리
 * [Odin Inspector](https://odininspector.com/) - 인스펙터 확장으로 에디터 작업 효율화
-* Unity Animator - 2D·3D 애니메이션 상태 전환과 제어
+* Input System - 키보드·게임패드 입력 처리와 UI 포커스 제어
+* UGUI - 팝업 UI와 상호작용 구현
+* Animator - 2D·3D 애니메이션 상태 전환, Override Animator Controller로 애니메이션 교체
 * Cinemachine - 상황에 맞는 카메라 전환과 추적 제어
 * [Feel](https://feel.moremountains.com/) - 사운드, 파티클, 카메라 흔들림, 애니메이션 등 게임 피드백 연출
+* FMOD for Unity - 게임 상황에 따라 변하는 적응형 오디오 구현
 * Localization - 다국어 텍스트와 에셋 관리
 * MCP for Unity - Claude Code와 Unity 에디터 연동
 
