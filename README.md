@@ -88,7 +88,7 @@
 * 팀 프로젝트 / **Project Starfall** · 탑다운 우주 생존 게임 개발
   * **주야 변화** · 게임 내 시간에 따라 낮·밤 상태를 State 패턴으로 전환, 조명 세기와 Fog of War 농도를 부드럽게 보간
   * **엔딩 분기** · `IEnding` 인터페이스로 엔딩별 조건과 연출을 분리, 생존 일수에 따라 3가지 엔딩으로 분기 및 엔딩 영상 재생
-  * [플레이 영상](https://www.youtube.com/watch?v=zdOKez8kJ-A) (사용된 에셋의 저작권 문제로 인해 해당 프로젝트의 깃허브는 기재하지 못하였습니다.)
+  * [플레이 영상](https://www.youtube.com/watch?v=zdOKez8kJ-A)
 
 <br>
 
