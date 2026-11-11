@@ -38,7 +38,7 @@
 
 ## My projects :video_game:
 
-### ●개인 프로젝트 / PhikozzLib · Unity 공통 시스템 라이브러리
+### ▶ 개인 프로젝트 / PhikozzLib · Unity 공통 시스템 라이브러리
 > 2026.05 – 2026.10 · 1인 개발 · UPM git 패키지 v3.0.0 · Unity 6 / C#
 
 프로젝트마다 Audio, UI, Save 매니저를 다시 만들고, 매니저마다 접근 방식이 다르고, Awake 실행 순서 때문에 null 예외가 나던 문제를 해결하려고 만든 **Service Locator + Bootstrap 기반 공통 서비스 라이브러리**입니다.
@@ -65,7 +65,7 @@
 
 <br>
 
-### ●개인 프로젝트 / PhikozzLib-Data-Structure · Unity 자료구조 라이브러리 `진행 중`
+### ▶ 개인 프로젝트 / PhikozzLib-Data-Structure · Unity 자료구조 라이브러리 `진행 중`
 > 2026.11 – 진행 중 · 1인 개발 · UPM git 패키지 v1.0.0 · Unity 6 / C#
  
 게임 개발에 필요한 자료구조와 알고리즘을 직접 구현해 UPM 패키지로 정리하는 라이브러리입니다. 개인 학습 저장소에서 공부한 내용을 실제 프로젝트에서 가져다 쓸 수 있는 형태로 발전시키고 있습니다.
